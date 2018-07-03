@@ -1,0 +1,20 @@
+{
+  "name": "openyu-nodejs",
+  "version": "1.0.0",
+  "description": "A Nodejs project",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixaceh/openyu-nodejs.git"
+  },
+  "author": "mixaceh <mixaceh@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mixaceh/openyu-nodejs/issues"
+  },
+  "homepage": "https://github.com/mixaceh/openyu-nodejs#readme"
+}
