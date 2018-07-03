@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# openyu-nodejs
-=======
 # OpenYu Nodejs
 
 > A Nodejs project
@@ -15,4 +12,3 @@ npm init
 npm install 
 (npm i)
 ```
->>>>>>> init import
